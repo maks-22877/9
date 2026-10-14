@@ -1,0 +1,13 @@
+{
+"name": "contacts-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.16.4",
+    "parcel": "^2.16.4"
+  }
+}
